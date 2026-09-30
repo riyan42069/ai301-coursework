@@ -1,0 +1,1 @@
+Hi, I’d like to investigate this issue. I’ll reproduce the TypeError in FaithfulnessChecker.check() using a context chunk where text is None, verify it against test_none_context_chunk_text, and follow up with my reproduction findings.
